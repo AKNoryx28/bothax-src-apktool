@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: XbWaKK0oJ+jZxQpNW/VHqPgqyJs=
+
+Name: assets/LIB
+SHA1-Digest: Q4T9PFzwIBRuirNg72hC2fbVqmI=
+
+Name: classes.dex
+SHA1-Digest: 3vcIzvb6bHHaAUH+AflbmIkTMCA=
+
+Name: lib/armeabi-v7a/libanzu.so
+SHA1-Digest: SQ05bS6tAukDm96LkkNRR35ut/M=
+
+Name: lib/armeabi-v7a/libdhook.so
+SHA1-Digest: TAxg7OGXfPygv/8XLbNorm1F4g0=
+
+Name: lib/armeabi-v7a/libgrowtopia.so
+SHA1-Digest: k/SwPLr0ebzKqV6ignp3AQkpMNQ=
+
+Name: lib/armeabi-v7a/libimportant.so
+SHA1-Digest: lX1O2H/VDPnA8NiD9QDpsYhY85M=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: sjiVXkaoDYeYy/qe+h7jtRWw0+k=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: b7/Wzk3f9Zeww+sBzR02pGaasKI=
+
+Name: resources.arsc
+SHA1-Digest: 9NVDwZki9GkZx9TMAHyA8JcUg+A=
+

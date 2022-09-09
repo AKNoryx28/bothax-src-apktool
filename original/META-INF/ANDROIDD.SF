@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: YZNuE9+XRtbCcsGLwOrFXNlz3o0=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: pmRXvYm+0w9BsbUSOWkFrQyOETE=
+
+Name: assets/LIB
+SHA1-Digest: W46OVUgDohpOAHbJVsqyI1lpjyU=
+
+Name: classes.dex
+SHA1-Digest: KWESroz56j08YfQbYETJYQbyKa4=
+
+Name: lib/armeabi-v7a/libanzu.so
+SHA1-Digest: ic0t4l57nXzer3SljRQdIve680E=
+
+Name: lib/armeabi-v7a/libdhook.so
+SHA1-Digest: a1UQqMTbbHSQGTT14aPpfYRbbGg=
+
+Name: lib/armeabi-v7a/libgrowtopia.so
+SHA1-Digest: 7uMf/dd74JkTCfW+lnLnQpRYO3E=
+
+Name: lib/armeabi-v7a/libimportant.so
+SHA1-Digest: mSFTIBryjUwKaqViEAPgozPO4A0=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: ey2swaIOogGx8UB4uiAkYwpj3EY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: hfivuL5i/GClziCqjp8sbcMbLD4=
+
+Name: resources.arsc
+SHA1-Digest: JyTxO+geVENlSvUNbPVlEjlZO5M=
+
